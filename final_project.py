@@ -84,7 +84,7 @@ class MLX90614():
 #initalize the temperature sensor
 temp_sensor = MLX90614()
 
-#load the image classification button
+#load the image classification model
 if "model" not in st.session_state:
     model = tf.keras.models.load_model('mask_compliance.h5')
     st.session_state.model = model
