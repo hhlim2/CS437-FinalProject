@@ -1,6 +1,4 @@
 # CS437-FinalProject
-
-# CS410 CourseProject - Hannah Benig
 YouTube Demo Link:
 
 # Setup and Run Streamlit App Locally
