@@ -28,6 +28,7 @@ source env/bin/activate
 ```
 pip install --upgrade pip
 pip install -r requirements.txt
+sudo apt install python3-smbus
 ```
 
 5. Run the application
