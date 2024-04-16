@@ -5,8 +5,9 @@ YouTube Demo Link:
 Prerequisites 
 - Raspberry Pi
 - Raspberry Pi Camera
-- Waveshare Infared Sensor https://www.waveshare.com/wiki/Infrared_Temperature_Sensor
+- Waveshare Infrared Sensor https://www.waveshare.com/wiki/Infrared_Temperature_Sensor
 - Python 3.11
+- External monitor, keyboard, and mouse
 
 1. Clone this repository
 ```
