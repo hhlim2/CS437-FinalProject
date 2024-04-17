@@ -1,5 +1,5 @@
 # CS437-FinalProject
-YouTube Demo Link:
+YouTube Demo Link: https://youtu.be/Gpb6cuFjyJw
 
 # Setup and Run Streamlit App Locally
 Prerequisites 
