@@ -32,7 +32,18 @@ pip install -r requirements.txt
 sudo apt install python3-smbus
 ```
 
-5. Run the application
+5. Run the model_testing.ipynb notebook through the cell that includes
+```
+model2 = create_model2()
+
+model2.fit(train_ds, epochs=10, validation_data=val_ds)
+
+#save the model
+model2.save("mask_compliance.h5")
+```
+
+
+6. Run the application
 ```
 streamlit run final_project.py
 ```
